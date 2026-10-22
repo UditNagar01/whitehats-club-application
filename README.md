@@ -14,5 +14,3 @@ I think being part of the club will help me learn from seniors and work with stu
 I recently read about a software supply-chain incident involving a group called TeamPCP. Google Threat Intelligence reported that between February and May 2026, the group compromised open-source software packages in ecosystems like PyPI, npm, and Docker Hub. In some cases, the attackers used compromised packages to steal credentials.
 
 What I found interesting is that attackers do not always attack one company directly. If they compromise a package or tool that many developers trust, they can affect many users at once. It reminded me that developers should check dependencies carefully, use MFA, and never expose secrets in code or GitHub Actions.
-
-Source: [Google Threat Intelligence — Mitigation Guidance for Supply Chain Compromise](https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise)
